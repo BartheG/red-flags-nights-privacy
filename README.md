@@ -1,27 +1,22 @@
-# Red Flags Nights – Privacy Policy
+# Red Flags Nights
 
-This repository hosts the public **Privacy Policy** for the mobile game **Red Flags Nights**.
+This repository hosts the landing page for the mobile game **Red Flags Nights**.
 
-The policy is published via **GitHub Pages** and is intended to be referenced from:
+The website is published via **GitHub Pages** and is intended to be referenced from:
 - App Store Connect
 - Google Play Console
-- The application itself (legal / privacy links)
 
 ## Live Page
 
-Once GitHub Pages is enabled, the policy is available at:
+Once GitHub Pages is enabled, the website is available at:
 
-https://bartheg.github.io/red-flags-nights-privacy/
+https://redflagsnights.com/
 
 ## Content
 
 - Single static page (`index.html`)
-- Bilingual:
-  - English (first)
-  - French
-- No JavaScript
-- No tracking
-- No cookies
+- Privacy policy (`privacy.html`)
+- Support (`support.html`)
 
 ## Deployment (GitHub Pages)
 
@@ -33,15 +28,6 @@ https://bartheg.github.io/red-flags-nights-privacy/
 
 The page will be live within a few seconds.
 
-## Editing
-
-To update the policy:
-1. Edit `index.html`
-2. Update the “Last updated” date if needed
-3. Commit and push to `main`
-
-Changes are deployed automatically.
-
 ## App Context
 
 - App name: **Red Flags Nights**
@@ -52,7 +38,7 @@ Changes are deployed automatically.
 
 ## 📬 Contact
 
-For privacy-related questions:
+For questions:
 **guillaume.barthe.pro@gmail.com**
 
 ---
